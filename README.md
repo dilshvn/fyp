@@ -1,2 +1,2 @@
 # fyp
-final year project for engineering design module at uom
+final year project for engineering design module at univ of moratuwa
